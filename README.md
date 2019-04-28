@@ -12,6 +12,8 @@ A place for miscellaneous utilities and things
   * http roundtripper with discovery
   * port range net listener
   * tls self cert generator
+  * filesystem method
+  * slice method
 - scripts/
   * docker build scripts
   * protoc gen scripts
